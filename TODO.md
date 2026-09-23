@@ -1,8 +1,8 @@
 - Git & Github Workflow X
 - add commit push X
 - clone / Fork X
-- branches
-- merge
-- revert , reset
+- branches X
+- merge X
+- revert , reset X
 - stash
 - cherry-pick
